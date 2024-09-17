@@ -10,9 +10,10 @@ including Random Forest, Decision Trees, Logistic Regression, and K-Nearest Neig
 Logistic Regression performed best, achieving an accuracy of 63%, 
 and was further used to predict outcomes for the 2022 season, obtaining a 61% accuracy rate. 
 
-The rationale for this analysis is that by focusing on non player-specific data allows this research to highlight how 
-variables other than individual skill have an impact on games. It is also interesting how team’s winning or losing their 
-previous games have an impact on their winning percentage.
+The rationale for this analysis is that by focusing on non player-specific data, it allows this project to highlight how 
+variables other than individual skill have an impact on games. Extensive hypothesis testings were conducted such as "Does the team's winning 
+percentage, for instance, change depending on the month?".
+It is also interesting how team’s winning or losing their previous games have an impact on winning their next game. 
 
 ## Tech Stack
 -  **Programming Language**: Python
